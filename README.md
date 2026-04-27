@@ -11,8 +11,8 @@
 <img align="right" height="270px" alt="GIF" src="https://github.com/jishnujp/jishnujp/blob/main/coder.gif" />
 
 - 🚀 Founding Engineer at Skillecta.ai  (CTO) 
-- 📊 Learning Data Science & Machine Learning from **IIT Madras**  
-- 💹 Studying Quant Finance & Risk Management from **IIQF**  
+- 📊 Data Science & Machine Learning from **IIT Madras**  
+- 💹 Quant Finance & Risk Management from **IIQF**  
 - 📚 Love to read **non-fiction**
 
 <br>
